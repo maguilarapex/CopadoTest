@@ -163,6 +163,7 @@
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
+
     <fields>
         <fullName>test_field_1__c</fullName>
         <externalId>false</externalId>
@@ -173,7 +174,7 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
-    
+
     <fields>
         <fullName>test_field_2__c</fullName>
         <externalId>false</externalId>
